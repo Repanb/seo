@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 export default function HomePage() {
   return (
-    <h1 id="main-title">welcome to home page</h1>
+    <h2 id="main-title">welcome to home page</h2>
    
   );
 }
